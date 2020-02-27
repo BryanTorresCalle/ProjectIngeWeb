@@ -42,3 +42,7 @@
 -Descripción del módulo
 
 
+## Nota:
+El administrador podrá crear, eliminar y editar distintos modulos y diferentes tipos de usuarios, otorgando así los permisos acceso. Este tendrá un menú privado donde podrá realizar las acciones anteriormente mencionadas.
+
+Cuando se requiere una cuenta con permisos de acceso en específico(tipos de usuario), el administrador deberá crear un usuario inicial con las características requeridas el cual deberá ser actualizado con las información restante por la persona la que se le fue otorgado.
